@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+-- # Write your MySQL query statement below
 SELECT 
     sell_date,
     COUNT(*) AS num_sold,
